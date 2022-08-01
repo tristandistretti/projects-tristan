@@ -1,0 +1,3 @@
+The sokoban's project is the sokoban's game using the ncurses lib
+
+to use it : ./my_sokoban -h for help menu

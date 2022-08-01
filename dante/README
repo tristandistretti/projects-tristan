@@ -1,0 +1,9 @@
+The Dante program is on 2 parts : the maze generator and the maze solver
+(the solver isnt working well / at all)
+
+You can compil both parts at the root of the dante's folder
+to use the generator : ./generator/generator x y *perfect*
+x and y are the size of the maze and you can add "perfect" as an argument to create a perfect maze,
+else it'll be an imperfect maze.
+
+to use the solver : ./solver/solver map.txt

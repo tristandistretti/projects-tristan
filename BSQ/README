@@ -1,0 +1,4 @@
+The BSQ project is a project which finds the biggest square of '.' in a map sent as a file.
+You can find the solved and the unsolved maps in the folder "maps-intermediate".
+To execute the BSQ program, compile it with "make" or "make re" (Makefile)
+and ./bsq into the map you want (ex : "./bsq maps-intermediate/mouli_maps/intermediate_map_187_187_with_obstacles_25pc")
